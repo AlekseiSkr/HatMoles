@@ -18,9 +18,9 @@ Jump right into this fun game here
 
 | Desktop Mockup                                               |
 | ------------------------------------------------------------ |
-| ![](C:\Users\Alex\OneDrive - NHL Stenden Hogeschool\2.4\JS DHTML\Final Assignment\start\game.png) |
+| ![](https://github.com/AlekseiSkr/HatMoles/blob/a4977111ac06c14806ea03d9267abd60ab79e3d9/Documentation%20Assets/game.png) |
 | Mobile Mockup (Maybe)                                        |
-| ![](C:\Users\Alex\OneDrive - NHL Stenden Hogeschool\2.4\JS DHTML\Final Assignment\start\iPhone 6, 7, 8 Plus – scoreboard.png) |
+| ![](https://github.com/AlekseiSkr/HatMoles/blob/a4977111ac06c14806ea03d9267abd60ab79e3d9/Documentation%20Assets/iPhone%206,%207,%208%20Plus%20%E2%80%93%20scoreboard.png) |
 
 
 
@@ -58,15 +58,15 @@ Jump right into this fun game here
 
 ### Sprites 
 
-![](C:\Users\Alex\OneDrive - NHL Stenden Hogeschool\2.4\JS DHTML\Final Assignment\start\Group 10.png)
+![](https://github.com/AlekseiSkr/HatMoles/blob/a4977111ac06c14806ea03d9267abd60ab79e3d9/Documentation%20Assets/Group%2010.png)
 
 ### Background
 
-![](C:\Users\Alex\OneDrive - NHL Stenden Hogeschool\2.4\JS DHTML\Final Assignment\start\game – back.png)
+![](https://github.com/AlekseiSkr/HatMoles/blob/a4977111ac06c14806ea03d9267abd60ab79e3d9/Documentation%20Assets/game%20%E2%80%93%20back.png)
 
 ## UML Class Diagram
 
-//![](C:\Users\Alex\OneDrive - NHL Stenden Hogeschool\2.4\JS DHTML\Final Assignment\start\UML class.jpeg)
+//![](https://github.com/AlekseiSkr/HatMoles/blob/a4977111ac06c14806ea03d9267abd60ab79e3d9/Documentation%20Assets/UML%20class.jpeg)
 
 
 
